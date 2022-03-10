@@ -41,6 +41,11 @@ Notes, Resources and more relating to Data Science
 * Google abpackage - An R package for AB testing leveraging pre-period information [link](https://github.com/google/abpackage)
 * Google CausalImpact - An R package for causal inference in time series [link](https://github.com/google/CausalImpact)
 * rspivot - Shiny gadget for RStudio for viewing data frames. [link](https://github.com/ryantimpe/rspivot)
+### Shiny
+* Awesome Shiny Extensions - R packages that offer extended UI or server components for the R web framework Shiny [link](https://github.com/nanxstats/awesome-shiny-extensions)
+* Awesome R Shiny - An awesome R-shiny list!  [link](https://github.com/grabear/awesome-rshiny)
+* CalCAT - California COVID Assessment Tool [link](https://github.com/StateOfCalifornia/CalCAT)
+* Spotify Habits - Shiny App to visualize and analyse your listening habits [link](https://github.com/nicoFhahn/spotify_habits)
 
 ## Books 📚 [link]()
 * R Books - A curated list of `rstats` books [link](https://github.com/RomanTsegelskyi/rbooks)
@@ -53,3 +58,4 @@ Notes, Resources and more relating to Data Science
 * fivethirtyeight - R package of data and code behind the stories and interactives at FiveThirtyEight [link](https://github.com/rudeboybert/fivethirtyeight)
 * fivethirtyeight Data - Data and code behind the articles and graphics at FiveThirtyEight [link](https://github.com/fivethirtyeight/data)
 * Buzzfeed - [link](https://github.com/paldhous/ucsc)
+* Jeff Sackmann - Point-by-point data for Grand Slams, 2011-current 🎾 [link](https://github.com/JeffSackmann/tennis_slam_pointbypoint)

@@ -9,7 +9,10 @@ Notes, Resources and more relating to Data Science
 ## Data Wrangling [link]()
 ### data.table
 * data.table workshop -  introduction to, as well as some hands-on experience in using, the data.table package in R. [link](https://github.com/traceybit/dt-workshop)
-* Data.TableTutorial - A tutorial on the data.table package [link](https://github.com/StatsGary/Data.TableTutorial)
+* data.table Tutorial - A tutorial on the data.table package [link](https://github.com/StatsGary/Data.TableTutorial)
+* A gentle introduction to data.table [link](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)
+* The ultimate R data.table cheat sheet [link](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
+* A data.table and dplyr tour [link](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)
 
 ## Learning Resources [link]()
 ### Resources

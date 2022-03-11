@@ -44,6 +44,7 @@ Notes, Resources and more relating to Data Science
 * Google abpackage - An R package for AB testing leveraging pre-period information [link](https://github.com/google/abpackage)
 * Google CausalImpact - An R package for causal inference in time series [link](https://github.com/google/CausalImpact)
 * rspivot - Shiny gadget for RStudio for viewing data frames. [link](https://github.com/ryantimpe/rspivot)
+* rpivotTable - A R wrapper for the great library pivottable [link](https://github.com/smartinsightsfromdata/rpivotTable)
 ### Shiny
 * Awesome Shiny Extensions - R packages that offer extended UI or server components for the R web framework Shiny [link](https://github.com/nanxstats/awesome-shiny-extensions)
 * Awesome R Shiny - An awesome R-shiny list!  [link](https://github.com/grabear/awesome-rshiny)

@@ -13,6 +13,7 @@ Notes, Resources and more relating to Data Science
 * A gentle introduction to data.table [link](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)
 * The ultimate R data.table cheat sheet [link](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
 * A data.table and dplyr tour [link](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)
+* Arun Srinivasan - UseR 2017 dat.table tutorial - [link](https://github.com/arunsrinivasan/user2017-data.table-tutorial)
 
 ## Learning Resources [link]()
 ### Resources

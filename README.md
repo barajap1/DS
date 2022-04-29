@@ -10,6 +10,7 @@ Notes, Resources and more relating to Data Science
 * TidyverseSkeptic - An opinionated view of the Tidyverse "dialect" of the R language. [link](https://github.com/matloff/TidyverseSkeptic)
 * Resources for learning about the history of statistics and statisticians. [link](https://github.com/sctyner/history_of_statistics)
 * R-Tips-and-Tricks - solution to R newbie problems I encountered. Mainly mapping and tidyverse stuff. [link](https://github.com/toebR/R-Tipps-and-Tricks)
+* Sebastian Raschka [link](https://sebastianraschka.com/blog/index.html)
 
 ## Data Wrangling 🧰 [link]()
 ### data.table

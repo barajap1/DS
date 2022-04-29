@@ -1,12 +1,17 @@
 # DS
 Notes, Resources and more relating to Data Science
 
+## Concepts 🧠 [link]()
+### Confidence Interval
+* Creating Confidence Intervals for Machine Learning Classifiers [link](https://sebastianraschka.com/blog/2022/confidence-intervals-for-ml.html)
+* The fallacy of placing confidence in confidence intervals [link](https://link.springer.com/article/10.3758/s13423-015-0947-8)
+
 ## Blogs/Posts/Articles 📃 [link]()
 * TidyverseSkeptic - An opinionated view of the Tidyverse "dialect" of the R language. [link](https://github.com/matloff/TidyverseSkeptic)
 * Resources for learning about the history of statistics and statisticians. [link](https://github.com/sctyner/history_of_statistics)
 * R-Tips-and-Tricks - solution to R newbie problems I encountered. Mainly mapping and tidyverse stuff. [link](https://github.com/toebR/R-Tipps-and-Tricks)
 
-## Data Wrangling [link]()
+## Data Wrangling 🧰 [link]()
 ### data.table
 * data.table workshop -  introduction to, as well as some hands-on experience in using, the data.table package in R. [link](https://github.com/traceybit/dt-workshop)
 * data.table Tutorial - A tutorial on the data.table package [link](https://github.com/StatsGary/Data.TableTutorial)
@@ -15,7 +20,7 @@ Notes, Resources and more relating to Data Science
 * A data.table and dplyr tour [link](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)
 * Arun Srinivasan - UseR 2017 dat.table tutorial - [link](https://github.com/arunsrinivasan/user2017-data.table-tutorial)
 
-## Learning Resources [link]()
+## Learning Resources 🏫 [link]()
 ### Resources
 * Free data science resources - Thematic list of high-quality data science resources [link](https://github.com/alastairrushworth/free-data-science)
 * Data Science Learning Resources - A collection of data science and machine learning resources that I've found helpful (I only post what I've read!) [link](https://github.com/bradleyboehmke/data-science-learning-resources)
@@ -56,7 +61,7 @@ Notes, Resources and more relating to Data Science
 * R Books - A curated list of `rstats` books [link](https://github.com/RomanTsegelskyi/rbooks)
 * Think Bayes - an introduction to Bayesian statistics using computational methods. [link](https://github.com/AllenDowney/ThinkBayes2)
 
-## Datasets [link]()
+## Datasets 📈 [link]()
 * ladata - A collection of datasets on Latin America [link](https://github.com/hail2thief/ladata)
 * The Economist  -  multilevel Bayesian model to predict US presidential elections. [link](https://github.com/TheEconomist/us-potus-model)
 * LA Times - Datadesk - All of our computational notebooks  [link](https://github.com/datadesk/notebooks)

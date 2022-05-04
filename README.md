@@ -20,6 +20,7 @@ Notes, Resources and more relating to Data Science
 * The ultimate R data.table cheat sheet [link](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
 * A data.table and dplyr tour [link](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)
 * Arun Srinivasan - UseR 2017 dat.table tutorial - [link](https://github.com/arunsrinivasan/user2017-data.table-tutorial)
+* Data.Table – everything you need to know to get you started in R [link](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
 
 ## Learning Resources 🏫 [link]()
 ### Resources

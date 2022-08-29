@@ -44,6 +44,8 @@ Notes, Resources and more relating to Data Science
 * A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.  [link](https://github.com/wzchen/probability_cheatsheet)
 * Data Science Cheatsheet  [link](https://github.com/ml874/Data-Science-Cheatsheet)
 * Data Science Cheatsheet 2.0 [link](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+* MLE / DS / SWE Cheatsheet [link](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets)
+* Machine Learning Research & Engineering - Flashcards [link](https://github.com/b7leung/MLE-Flashcards)
 ### Conference/Workshops
 * Why R? 2020 remote Workshops [link](https://github.com/WhyR2020/workshops)
 * user2020! Causal Inference in R Workshop [link](https://github.com/LucyMcGowan/user2020-causal-inference)

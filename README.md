@@ -11,6 +11,9 @@ Notes, Resources and more relating to Data Science
 * Deep (Learning) Focus [link](https://cameronrwolfe.substack.com/)
 * Shiny Weekly: News from the R Shiny Community [link](https://appsilon.com/shiny-weekly-announcement/)
 * Albert Rapp - 3 Minutes Wednesdays [link](https://alberts-newsletter.beehiiv.com/)
+* Probably Overthinking it - DS, Bayesian Stats and other ideas [link](https://www.allendowney.com/blog/)
+* The Batch - What Matters in AI Right Now [link](https://www.deeplearning.ai/the-batch/)
+* This Week in Data Viz [link](https://us20.campaign-archive.com/home/?u=b6c3fc53aaa216fc8f5cc6996&id=22843b2bbe)
 * 
 
 ## Blogs/Posts/Articles 📃 [link]()

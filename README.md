@@ -6,6 +6,13 @@ Notes, Resources and more relating to Data Science
 * Creating Confidence Intervals for Machine Learning Classifiers [link](https://sebastianraschka.com/blog/2022/confidence-intervals-for-ml.html)
 * The fallacy of placing confidence in confidence intervals [link](https://link.springer.com/article/10.3758/s13423-015-0947-8)
 
+## Newsletters 📃 [link]()
+* Data Science Weekly Newsletter [link](https://datascienceweekly.substack.com/)
+* Deep (Learning) Focus [link](https://cameronrwolfe.substack.com/)
+* Shiny Weekly: News from the R Shiny Community [link](https://appsilon.com/shiny-weekly-announcement/)
+* Albert Rapp - 3 Minutes Wednesdays [link](https://alberts-newsletter.beehiiv.com/)
+* 
+
 ## Blogs/Posts/Articles 📃 [link]()
 * TidyverseSkeptic - An opinionated view of the Tidyverse "dialect" of the R language. [link](https://github.com/matloff/TidyverseSkeptic)
 * Resources for learning about the history of statistics and statisticians. [link](https://github.com/sctyner/history_of_statistics)
